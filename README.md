@@ -1,0 +1,1 @@
+This repository demonstrates a common Dockerfile error: attempting to execute a non-existent script in the CMD instruction. The bug is in DockerfileBug.dockerfile, causing the container to fail. DockerfileBugSolution.dockerfile shows the corrected version.
